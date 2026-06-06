@@ -1,0 +1,6 @@
+{
+  "name": "QualiFLV",
+  "description": "Sistema inteligente de controle de qualidade, validades e shelf-life de produtos processados de Hortifrúti (FLV).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
